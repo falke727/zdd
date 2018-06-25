@@ -1,7 +1,7 @@
 /* zdd.h */
 
-#ifndef __TANAKALAB_ZDD_H__
-#define __TANAKALAB_ZDD_H__
+#ifndef __HARADA_ZDD_H__
+#define __HARADA_ZDD_H__
 
 #ifndef __TANAKALAB_BOOL_H__
 #include "bool.h"
